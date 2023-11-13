@@ -9,13 +9,7 @@ do{
 	printf("\n\t*Bienvenido al MENU*");
 
  
-	printf("\n	Alumno: Cortes Ramirez Omar");
-	printf("\n	Grupo: 4IM14");
-	printf("\n	Fecha de Creacion: 8 de Abril del 2022");
-	printf("\n  Unidad de Aprendizaje: Programacion Modular");
-	printf("\n	Nombre de los profesores:");
-	printf("\n		Navarro Shanchez Erika		(Titular)");
-	printf("\n		Perez Angeles Rosa Maria	(Auxiliar)");
+	printf("\n	Elaborado por: Cortes Ramirez Omar");
 	
   printf("\n**********MENU**********");	
     printf("\n1. Registro nombre alumnos");
